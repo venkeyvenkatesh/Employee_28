@@ -33,6 +33,11 @@ namespace Assignment_0
 
             total_wage = hours * wage;
 
+<<<<<<< HEAD
+=======
+
+            Console.Out.WriteLine(total_wage);
+>>>>>>> usecase3
 
             Console.Out.WriteLine(total_wage);
         }
